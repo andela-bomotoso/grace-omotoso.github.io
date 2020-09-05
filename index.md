@@ -4,7 +4,7 @@
 <a href="">Home</a>
 <span class="spaced">•</span>
 
-<a href="research.html">Education and Research</a>
+<a href="research.html">Research</a>
 <span class="spaced">•</span>
 
 <a href="teaching.html">Professional Experience</a>
@@ -15,6 +15,11 @@
 
 </div>
 <hr/>
+<div class="btn-group">
+  <button><a href="">About</a></button>
+  <button>Education and Research</button>
+  <button>Personal</button>
+</div>
 
 <div id="container">
 <p id="content">
