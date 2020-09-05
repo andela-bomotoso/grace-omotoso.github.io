@@ -1,19 +1,20 @@
 
 
 <div class="info2">
-<span style="color:blue;font-weight:bold">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
+<span style="color:blue;font-weight:normal">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
 
 <hr/>
-<div class="btn-group">
-  <button><a href="">About</a></button>
-  <button><a href="research.html">Education and Research</a</button>
-  <button><a href="personal.html">Personal</a></button>
-</div>
 
 <div id="container">
 <p id="content">
 </p><h1>Bukola Grace Omotoso</h1>
+  
+  <div class="btn-group">
+  <span><a href="">About</a></span>
+  <span><a href="research.html">Education and Research</a</span>
+  <span><a href="personal.html">Personal</a></span>
+</div>
 
 <img src="grace_photo.jpg" alt="Picture of Grace Omotoso" width="200" height="260" align="left" style="margin-top: 0px; margin-right: 55px; margin-bottom: 0px; margin-left: 0px;">
 
