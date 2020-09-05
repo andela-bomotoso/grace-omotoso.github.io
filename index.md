@@ -26,7 +26,9 @@
 I am a Computer Scientist with bachelors and masters degree in Computer Science.My research interests are in the area of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
 I have done quite a bit of research in some of the listed areas above and I am current taking a deep learning <a href="https://www.coursera.org/specializations/deep-learning
 " target="_blank">course </a>course on  <a href="https://www.coursera.org
-" target="_blank">coursera </a>. <p style="font-size: 18px;"> I have over 8 years of diverse practical IT professional experience that includes from IT Audit and Information Security, Software Dvelopment, and Computer Vision.
+" target="_blank">coursera </a>.
+ 
+ I have over 8 years of diverse practical IT professional experience that includes from IT Audit and Information Security, Software Dvelopment, and Computer Vision.
 <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 " target="_blank">COVID-19 data</a>. We proposed that mitigations such as governmental actions and public responses,
 forces the model parameters to become time series. In our approach, we do not need to explicitly specify the
