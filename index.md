@@ -1,6 +1,7 @@
 
-<h1>Bukola Grace Omotoso</h1>
-<span style="color:LightBlue;font-weight:normal">&9742; 615-720-4182| Data Analysis| IT Audit & Information Security| Computer Vision</span>
+<h1 style = "text-align:center;>Bukola Grace Omotoso</h1>
+<span style="color:blue;font-weight:normal">&9742; 615-720-4182| Data Analysis| IT Audit & Information Security| Computer Vision</span><p>I will display &spades;</p>
+
 
 
 <div class="info2">
