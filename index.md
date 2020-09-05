@@ -19,13 +19,5 @@ I have done quite a bit of research in some of the listed areas and I am current
 <div class="info">
 <h2>Education and Research</h2>
 Going  through the Computer Science <a href=" https://www.mtsu.edu/programs/computer-science-ms/index.php
- " target="_blank">Computer Science Masters program</a> at the Middle Tennessee State University</a> brought a pardigm shift to my research interest and career. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript<a/> for more details.  
-
-
-</div>
-
-
-
-</div>
-
+ " target="_blank">Computer Science Masters program</a> at the Middle Tennessee State University</a> brought a pardigm shift to my research interest and career. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript</a> for more details.  
 
