@@ -1,6 +1,6 @@
 
 <h1 style = "text-align:center">Bukola Grace Omotoso</h1>
-<h6  style = "text-align:center"> &#9742; 615-720-4183</h6>
+<h6  style = "text-align:center; font-size: 16px"> &#9742; 615-720-4183</h6>
 <div class="info2">
 <span style="color:blue;font-weight:normal; text-align:center">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
