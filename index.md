@@ -1,5 +1,5 @@
 
-
+<h1>Bukola Grace Omotoso</h1>
 <div class="info2">
 <span style="color:blue;font-weight:normal">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
@@ -7,8 +7,6 @@
 <hr/>
 
 <div id="container">
-<p id="content">
-</p><h1>Bukola Grace Omotoso</h1>
 
 <img src="grace_photo.jpg" alt="Picture of Grace Omotoso" width="200" height="260" align="left" style="margin-top: 0px; margin-right: 55px; margin-bottom: 0px; margin-left: 0px;">
 
