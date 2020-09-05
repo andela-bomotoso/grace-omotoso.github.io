@@ -1,6 +1,6 @@
 
 <h1 style = "text-align:center">Bukola Grace Omotoso</h1>
-<p  style = "text-align:center; font-size: 16px"> &#9742; 615-720-4183   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9742; gracomot@gmail.com</p>
+<p  style = "text-align:center; font-size: 16px"> &#9742; 615-720-4183   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9993; gracomot@gmail.com</p>
 <div class="info2">
 <span style="color:blue;font-weight:normal; width: 100%; text-align:center">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
