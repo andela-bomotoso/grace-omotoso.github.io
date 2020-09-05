@@ -23,11 +23,9 @@
 <img src="grace_photo.jpg" alt="Picture of Grace Omotoso" width="200" height="260" align="left" style="margin-top: 0px; margin-right: 55px; margin-bottom: 0px; margin-left: 0px;">
 
 <p style="font-size: 18px;">
-I am a graduate of Computer Science. My research interests are in the area of High Perfomance Computing. I have used paralell programing paradigm such as Multi-threading, MPI, OpenSHMEM and CUDA-GPU.
-Computational Science at <a href="https://www.mtsu.edu/" target="_blank">Middle Tennessee State University</a>.
-My advisor is <a href="https://www.mtsu.edu/faculty/abdul-khaliq" target="_blank">Dr. Abdul Khaliq</a>. My research
-interest is on Data-driven deep learning algorithms for differential equation models. My codes will be on github
-at <a href="https://github.com/andela-bomotoso" target="_blank">https://github.com/okayode</a>. My work involves finding
+I am a graduate of Computer Science. My research interests are in the area of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
+I have done quite a bit of research in some of the listed areas above and I am current taking a deep learning <a href="https://www.coursera.org/specializations/deep-learning
+" target="_blank">course </a>course on coursera.  My work involves finding
 efficient numerical Solutions of partial differential equations and systems, parameter estimation and inverse
 problems. Presently, I am working on epidemiological models for an infectious disease such as COVID-19, with data
 from the publicly accessible
