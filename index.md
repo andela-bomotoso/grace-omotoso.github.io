@@ -29,31 +29,6 @@ I have done quite a bit of research in some of the listed areas and I am current
 
 </div>
 
-<table>
-
-<tbody><tr>
-<td class="ciname">Email: </td>
-<td class="cidata">
-bgo2e@mtmail.mtsu.edu
-</td>
-</tr>
-
-
-<tr>
-<td class="ciname">Phone: </td>
-<td class="cidata">615 720 4183</td>
-</tr>
-
-</tbody></table>
-
-<li>
-
-    <a href="Kayode2020CV.pdf" target="_blank"><i>CV </i></a>
-
-</li><table class="vita">
-<tbody><tr valign="top">
-
-</tr></tbody></table>
 
 <p></p>
 
