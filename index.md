@@ -1,6 +1,7 @@
 
 <h1 style = "text-align:center">Bukola Grace Omotoso</h1>
-<h6>I will display &spades;</h6>
+<h6  style = "text-align:center">I will display &#9824;</h6>
+
 
 
 
