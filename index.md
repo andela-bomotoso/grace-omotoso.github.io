@@ -19,5 +19,5 @@ I have done quite a bit of research in some of the listed areas and I am current
 <div class="info">
 <h2>Education and Research</h2>
 Going  through the Computer Science <a href=" https://www.mtsu.edu/programs/computer-science-ms/index.php
- " target="_blank">Computer Science Masters program</a> at the Middle Tennessee State University</a> brought a pardigm shift to my research interest and career. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript</a> for more details.  
+ " target="_blank">Computer Science Masters program</a> at the Middle Tennessee State University brought a pardigm shift to my research interest and career. I took some classes in High Performance Computing (HPC), Artificial Intelligence and Natural Language Processing (NLP). See my  <a href="Transcript.pdf" target="_blank">Transcript</a> for more details. My HPC classes exposed me to some parallel processing paradigm like the Partitioned Global Address Space (PGAS) model such as OpenSHMEM and one-sided. I also learnt how to distribute processes across a GPU such as cuda. Taking those classes pushed me further to do my thesis in HPC. My thesis was on a Content-Aware Image Resizing with OpenSHMEM. 
 
