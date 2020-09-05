@@ -25,10 +25,8 @@
 <p style="font-size: 18px;">
 I am a graduate of Computer Science. My research interests are in the area of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
 I have done quite a bit of research in some of the listed areas above and I am current taking a deep learning <a href="https://www.coursera.org/specializations/deep-learning
-" target="_blank">course </a>course on coursera.  My work involves finding
-efficient numerical Solutions of partial differential equations and systems, parameter estimation and inverse
-problems. Presently, I am working on epidemiological models for an infectious disease such as COVID-19, with data
-from the publicly accessible
+" target="_blank">course </a>course on  <a href="https://www.coursera.org
+" target="_blank">coursera </a>. <p> I have over 8 years of diverse practical IT professional experience that includes from IT Audit and Information Security, Software Dvelopment, and Computer Vision.
 <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 " target="_blank">COVID-19 data</a>. We proposed that mitigations such as governmental actions and public responses,
 forces the model parameters to become time series. In our approach, we do not need to explicitly specify the
