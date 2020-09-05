@@ -1,5 +1,8 @@
 
 <h1>Bukola Grace Omotoso</h1>
+<span style="color:LightBlue;font-weight:normal">&9742; 615-720-4182| Data Analysis| IT Audit & Information Security| Computer Vision</span>
+
+
 <div class="info2">
 <span style="color:blue;font-weight:normal">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
@@ -20,9 +23,6 @@ I have done quite a bit of research in some of the listed areas and I am current
 </p>
 <br clear="left">
 <p style="font-size: 18px;">
-I am also interested in the discovery of governing equations of reaction-diffusion models such as the FitzHugh-Nagumo
-equations with nonlocal diffusion. In these models, the data-driven approach is able to detect nonlinear diffusion term
-from experimental data.
 
 
 </p>
