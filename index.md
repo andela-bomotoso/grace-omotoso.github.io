@@ -1,14 +1,13 @@
 
 
 <div class="info2">
-<a href="">Home</a>
-<span class="spaced">•</span>
+<span class="spaced">SOFTWARE DEVELOPMENT•</span>
 
-<a href="research.html">Research</a>
-<span class="spaced">•</span>
+<span class="spaced">DATA SCIENCE & DATA ANALYSIS•</span>
 
-<a href="teaching.html">Professional Experience</a>
-<span class="spaced">•</span>
+<span class="spaced">INFORMATION SECURITY & IT AUDIT•</span>
+
+<span class="spaced">COMPUTER VISION•</span>
 
 <a href="personal.html">Personal</a>
 <span class="spaced">•</span>
@@ -17,8 +16,8 @@
 <hr/>
 <div class="btn-group">
   <button><a href="">About</a></button>
-  <button>Education and Research</button>
-  <button>Personal</button>
+  <button><a href="research.html">Education and Research</a</button>
+  <button><a href="personal.html">Personal</a></button>
 </div>
 
 <div id="container">
