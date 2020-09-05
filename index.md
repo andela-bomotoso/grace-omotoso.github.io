@@ -11,12 +11,12 @@
 <img src="grace_photo.jpg" alt="Picture of Grace Omotoso" width="200" height="260" align="left" style="margin-top: 0px; margin-right: 55px; margin-bottom: 0px; margin-left: 0px;">
 
 <p style="font-size: 16px;">
-I am a Computer Scientist with bachelors and masters degree in Computer Science. My research interests are in the areas of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
+A Computer Scientist with bachelors and masters degree in Computer Science.  I have over 8 years of diverse practical IT professional experience that includes IT Audit and Information Security, Software Development, and Computer Vision. See <a href="https://www.linkedin.com/in/bukola-grace-omotoso-18003345/
+ " target="_blank">linkedin profile</a> for more details. I have a good blend of technical and soft skills. I act professionally, communicate effectively and manage stakeholders' expectations well. My research interests are in the areas of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
 I have done quite a bit of research in some of the listed areas and I am currently taking a deep learning <a href="https://www.coursera.org/specializations/deep-learning
 " target="_blank">course </a>course on  <a href="https://www.coursera.org
 " target="_blank">coursera </a>.
  
- I have over 8 years of diverse practical IT professional experience that includes IT Audit and Information Security, Software Development, and Computer Vision. I have a good blend of technical and soft skills. I act professionally, commuicate effectively and manage stakeholders' expectations well. 
 </p>
 <br clear="left">
 <p style="font-size: 18px;">
