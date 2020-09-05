@@ -12,20 +12,19 @@
 A Computer Scientist with bachelors and masters degree in Computer Science.  I have over 8 years of diverse practical IT professional experience that includes IT Audit and Information Security, Software Development, and Computer Vision. See <a href="https://www.linkedin.com/in/bukola-grace-omotoso-18003345/
  " target="_blank">linkedin profile</a> for more details. I have a good blend of technical and soft skills. I act professionally, communicate effectively and manage stakeholders' expectations well. My research interests are in the areas of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
 I have done quite a bit of research in some of the listed areas and I am currently taking a <a href="https://www.coursera.org/specializations/deep-learning
-" target="_blank">deep learning </a>course on coursera </a>.
+" target="_blank">deep learning </a>course on coursera.
  
 </p>
 
 <div class="info">
-<h3 style = "color:#3090c7">Bukola Grace Omotoso</h3>
-Going to Graduate School at the <a href="https://www.mtsu.edu/
- " target="_blank">Middle Tennessee State University</a> brought a pardigm shift to my research skills. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript<a/> for more details.  
+<h2>Education and Research</h2>
+Going  through the Computer Science <a href=" https://www.mtsu.edu/programs/computer-science-ms/index.php
+ " target="_blank">Computer Science Masters program</a> at the Middle Tennessee State University</a> brought a pardigm shift to my research interest and career. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript<a/> for more details.  
 
 
 </div>
 
 
-<p></p>
 
 </div>
 
