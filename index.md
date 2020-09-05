@@ -22,7 +22,7 @@
 
 <img src="grace_photo.jpg" alt="Picture of Grace Omotoso" width="200" height="260" align="left" style="margin-top: 0px; margin-right: 55px; margin-bottom: 0px; margin-left: 0px;">
 
-<p style="font-size: 1px;">
+<p style="font-size: 16px;">
 I am a Computer Scientist with bachelors and masters degree in Computer Science.My research interests are in the area of High Perfomance Computing, Natural Language Processing Computer Vision and Deep Learning. 
 I have done quite a bit of research in some of the listed areas above and I am current taking a deep learning <a href="https://www.coursera.org/specializations/deep-learning
 " target="_blank">course </a>course on  <a href="https://www.coursera.org
