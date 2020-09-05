@@ -1,18 +1,9 @@
 
 
 <div class="info2">
-<span class="spaced">SOFTWARE DEVELOPMENT•</span>
-
-<span class="spaced">DATA SCIENCE & DATA ANALYSIS•</span>
-
-<span class="spaced">INFORMATION SECURITY & IT AUDIT•</span>
-
-<span class="spaced">COMPUTER VISION•</span>
-
-<a href="personal.html">Personal</a>
-<span class="spaced">•</span>
-
+<span style="color:blue;font-weight:bold">Software Development| Data Analysis| IT Audit & Information Security| Computer Vision</span>
 </div>
+
 <hr/>
 <div class="btn-group">
   <button><a href="">About</a></button>
