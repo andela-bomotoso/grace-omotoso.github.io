@@ -15,12 +15,12 @@ I have done quite a bit of research in some of the listed areas and I am current
 " target="_blank">deep learning </a>course on coursera </a>.
  
 </p>
-<br clear="left">
-
-<h2 Education and Research </h2>
-Going to Graduate School at the Middle Tennessee State University brought a pardigm shift to my research skills. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my Transcript for more details.  
 
 <div class="info">
+<h3 style = "color:#3090c7">Bukola Grace Omotoso</h3>
+Going to Graduate School at the <a href="https://www.mtsu.edu/
+ " target="_blank">Middle Tennessee State University</a> brought a pardigm shift to my research skills. I chose the thesis track for my masters program. I took some classes in High Performance Computing and Artificial Intelligence. See my  <a href="Transcript.pdf" target="_blank">Transcript<a/> for more details.  
+
 
 </div>
 
