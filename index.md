@@ -24,5 +24,5 @@ Going  through the Computer Science <a href=" https://www.mtsu.edu/programs/comp
 
 <div class="info">
  <h2>Personal</h2>
- I have a friendly personality and great people skills. Here is a <a href="https://www.kudoboard.com/boards/TdmmrNvc?rid=33742eb0#view" target="_blank">Kudoboard</a> that shows what some of my former co-workers at HCA Healthcare said about me. I love <a href="family.jpg">family</a> times, cooking and reading to my 3yr old Daughter.
+ I have a friendly personality and great people skills. Here is a <a href="https://www.kudoboard.com/boards/TdmmrNvc?rid=33742eb0#view" target="_blank">Kudoboard</a> that shows what some of my former co-workers at HCA Healthcare said about me. I love <a href="family.html">family</a> times, cooking and reading to my 3yr old Daughter.
  </div>
